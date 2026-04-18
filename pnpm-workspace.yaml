@@ -1,7 +1,9 @@
 onlyBuiltDependencies:
+  - '@prisma/engines'
   - '@tailwindcss/oxide'
   - esbuild
   - lefthook
   - libpq
+  - prisma
   - sharp
   - unrs-resolver
